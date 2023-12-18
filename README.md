@@ -1,4 +1,4 @@
-# 👋🏾Hi There! I'm [John-Livingprooff](https://github.com/johnlivingprooff)
+### 👋🏾Hi There! I'm [John-Livingprooff](https://github.com/johnlivingprooff)
 
 Currently a Software Engineering Student at ALX Africa, driven by a profound passion for technology and its rapid advancements. My focus lies in crafting software infrastructure and designing user interfaces that are both intuitive and accessible to people. I'm enthusiastic about collaborating on projects that contribute to my growth in software development and engineering.
 
