@@ -1,8 +1,8 @@
 ### 👋🏾Hi There! I'm [John-Livingprooff](https://github.com/johnlivingprooff)
 
-![](https://github-readme-stats.vercel.app/api?username=johnlivingprooff&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlivingprooff&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=johnlivingprooff&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnlivingprooff&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlivingprooff&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnlivingprooff&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
