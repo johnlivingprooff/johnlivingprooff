@@ -1,4 +1,4 @@
-# 👋🏾Hi There! I'm [John-Livingprooff](https://github.com/johnlivingprooff)
+# 👋🏾Hi There! I'm [John-Livingprooff](https://johnlivingprooff.tech)
 
 I Love to Learn and experience Life through technology!
 
