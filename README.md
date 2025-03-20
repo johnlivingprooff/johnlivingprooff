@@ -1,4 +1,4 @@
-# 👋🏾Hi There! I'm [John-Livingprooff](https://johnlivingprooff.tech)
+# 👋🏾Hi There! I'm [John-Livingprooff](https://johnlivingprooff.vercel.app)
 
 I Love to Learn and experience Life through technology!
 
